@@ -9,7 +9,7 @@
 Projeto do Nível 2 do curso Explorer da Rocketseat para replicar o layout de uma página de Móveis Customizados especificado no Figma.
 
 ## Demonstração
-Publicado na githubPages, pode ser acesso clicando em...
+Publicado na githubPages, pode ser acesso clicando [aqui](https://susileal.github.io/moveis-customizados/)
 
 ## Como Executar
 
