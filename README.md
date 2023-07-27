@@ -1,6 +1,6 @@
 # Móveis Customizados - Página Web
 
-![Imagem do Projeto](link_para_imagem_do_projeto.png) <!-- Se quiser, adicione uma imagem representativa do projeto -->
+![Imagem do Projeto](images/system.png)
 
 > Criação um layout correspondente a uma página Móveis Customizados, usando o HTML e CSS. Projeto do Nível 2 do curso Explorer da Rocketseat
 
