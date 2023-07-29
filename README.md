@@ -14,7 +14,7 @@ Publicado na github-pages, pode ser acessado clicando [aqui](https://susileal.gi
 ## Como Executar
 
 1. Clone este repositório: `git clone [https://github.com/susileal/moveis-customizados.git]`
-4. Abrir o arquivo index.html em um browser de sua preferência
+2. Abrir o arquivo index.html em um browser de sua preferência
 
 ## Tecnologias Utilizadas
 - HTML
