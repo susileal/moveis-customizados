@@ -13,8 +13,9 @@ Publicado na github-pages, pode ser acessado clicando [aqui](https://susileal.gi
 
 ## Como Executar
 
-1. Clone este repositório: `git clone [https://github.com/susileal/moveis-customizados.git]`
-2. Abrir o arquivo index.html em um browser de sua preferência
+1. Clone este repositório: `git clone https://github.com/susileal/moveis-customizados.git`
+2. Acesse a pasta do projeto: `cd moveis-customizados`
+3. Abrir o arquivo index.html em um browser de sua preferência
 
 ## Tecnologias Utilizadas
 - HTML
